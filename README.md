@@ -125,4 +125,4 @@ But for now, this CLI version does everything the requirements asked for!
 
 ---
 
-Thanks for checking out my project! 🚀
+Thanks for checking out my project Teacher! 
